@@ -1,6 +1,6 @@
 # book_tracking_app
 
-A new Flutter project.
+In this app we can keep track of books which we are reading.
 
 ## Getting Started
 
